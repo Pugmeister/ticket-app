@@ -42,8 +42,8 @@ pip install -r requirements.txt
 # Запуск сервера
 uvicorn main:app --reload --port 8000
 ```
-```bash
 ### Frontend
+```bash
 cd frontend
 
 # Установка зависимостей
