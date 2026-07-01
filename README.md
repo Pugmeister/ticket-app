@@ -41,7 +41,8 @@ pip install -r requirements.txt
 
 # Запуск сервера
 uvicorn main:app --reload --port 8000
-
+```
+```bash
 ### Frontend
 cd frontend
 
@@ -50,3 +51,4 @@ npm install
 
 # Запуск dev-сервера
 npm run dev
+```
